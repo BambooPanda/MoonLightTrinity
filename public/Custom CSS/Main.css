@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+#presentation{
+	background-image:url(../images/BG.jpg) 100% 100%;
+}
+li.DevList{
+	margin-left: 100px;
+	text-align: justify;
+}
+
+
