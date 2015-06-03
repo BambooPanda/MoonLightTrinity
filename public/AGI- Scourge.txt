@@ -1,0 +1,76 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+<style>
+	body{
+		background-color:#CCC;
+	}
+	h1
+	{
+		text-align:center;
+		color:#F33;
+	}
+	.1
+	{
+		float:left;
+		width:50%;
+		color:#06C;
+	}
+	.2
+	{
+		float:right;
+		width:50%;
+		color:#06C;
+	}
+</style>
+</head>
+
+<body>
+	<h1>Sentinel (STR)</h1>
+    </br>
+    <div class="1">
+    <p>Sentinel - 1</p>
+        <ul>
+            <li>Anti-Mage  -  Magina</li>
+            <li>Dwarven Sniper  -  Kardel Sharpeye</li>
+            <li>Juggernaut  -  Yurnero</li>
+            <li>Lone Druid  - Syllabear</li>
+            <li>Moon Rider  - Luna Moonfang</li>
+            <li>Morphling  - Morphling</li>
+            <li>Naga Siren  -  Slithice</li>
+            <li>Phantom Lancer  - Azwraith</li>
+            <li>Priestess of the Moon  - Mirana Nightshade</li>
+            <li>Stealth Assassin  - Rikimaru</li>
+            <li>Troll Warlord  -  Jah'rakal</li>
+            <li>Gyrocopter  - Aurel Vlaicu</li>
+			<li>Bounty Hunter  - Gondar</li>
+			<li>Ember Spirit  -  Xin</li>
+        </ul>
+   	</div>
+    <div class="2">
+    	<p>Sentinel - 2</p>
+    	<ul>
+        	<li>Bloodseeker  - strygwyr</li>
+            <li>Bone Fletcher  - Clinkz</li>
+            <li>Broodmother  - Black Arachnia</li>
+            <li>Nerubian Assassin  - Anub'arak</li>
+            <li>Nerubian Weaver  - Anub'seran</li>
+            <li>Phantom Assassin  -  Mortred</li>
+            <li>Shadow Fiend  -  Nevermore</li>
+            <li>Soul Keeper  -  Terrorbladde</li>
+            <li>Spectre  - Mercurial</li>
+            <li>Venomancer  -  Lesale Death bringer</li>
+            <li>Netherdrake  -  Viper</li>
+            <li>Geomancer  -  Meepo</li>
+            <li>Lightning Revenant  -  Razor</li>
+            <li>Murloc Nightcrawler  -  Slark</li>
+            <li>Faceless Void  -  Darkterror</li>
+            <li>Gorgon  -  Medusa</li>
+            <li>Arc Warden  -  Zet</li>
+        </ul>
+    </div>
+
+</body>
+</html>

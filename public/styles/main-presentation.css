@@ -16,7 +16,7 @@
   margin: 0;
 }
 .navbar{
-	background: url(../images/FinalX.png) fixed; /* BG di Navigation Bar */
+	background: url(../images/Banner%20MT.jpg) fixed;
 	color: #FFFFFF;
 }
 .navbar-header{
@@ -99,7 +99,7 @@ article#presentation.bespoke-parent {
   margin-top: -300px;
   /*left: 50%;
   margin-left: -50%;*/
-  background: url(../images/Slide.png) 50% 0 no-repeat black; /*radial-gradient(rgb(99,1,0),rgb(58,1,2)); /*Background di Slide*/
+  background: black; /*Background di Slide*/
   padding: 40px;
   -webkit-border-radius: 0;
   border-radius: 0;
@@ -256,8 +256,9 @@ code.inline {
 }
 body {
 	color: #ffffff;
-	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-	background: url(../images/BGFinal.png) no-repeat;
+	font-family: 'Open Sans', sans-serif;
+	background-image: url(../images/BG.jpg);
+	background-repeat: no-repeat;
 }
 blockquote {
   font-style: italic;
@@ -272,24 +273,21 @@ card {
   width: 24em;
 }
 h1 {
-	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-  	font-size: 72px;
-  	line-height: 82px;
- 	 letter-spacing: -2px;
- 	 margin-bottom: 16px;
+  font-size: 72px;
+  line-height: 82px;
+  letter-spacing: -2px;
+  margin-bottom: 16px;
 }
 h2 {
-	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
- 	 font-size: 42px;
- 	 letter-spacing: -1px;
- 	 margin-bottom: 8px;
+  font-size: 42px;
+  letter-spacing: -1px;
+  margin-bottom: 8px;
 }
 h3 {
-	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
- 	font-size: 24px;
- 	font-weight: normal;
- 	margin-bottom: 24px;
-	color: #dddddd;
+  font-size: 24px;
+  font-weight: normal;
+  margin-bottom: 24px;
+  color: #dddddd;
 }
 hr {
   visibility: hidden;
