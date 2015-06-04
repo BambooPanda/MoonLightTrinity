@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+p{
+	margin:0px;
+	padding:0px;
+	font-size:14px;
+}
+.kiri{
+	width:30%;
+	float:left;
+}
+.kanan{
+	width:70%;
+	float:right;	
+}
+	

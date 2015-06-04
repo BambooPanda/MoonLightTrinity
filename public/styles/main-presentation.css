@@ -256,7 +256,7 @@ code.inline {
 }
 body {
 	color: #ffffff;
-	font-family: 'Open Sans', sans-serif;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
 	background-image: url(../images/BGFinal.png);
 	background-repeat: no-repeat;
 }
@@ -273,21 +273,24 @@ card {
   width: 24em;
 }
 h1 {
-  font-size: 72px;
-  line-height: 82px;
-  letter-spacing: -2px;
-  margin-bottom: 16px;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 72px;
+	line-height: 82px;
+	letter-spacing: -2px;
+	margin-bottom: 16px;
 }
 h2 {
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
   font-size: 42px;
   letter-spacing: -1px;
   margin-bottom: 8px;
 }
 h3 {
-  font-size: 24px;
-  font-weight: normal;
-  margin-bottom: 24px;
-  color: #dddddd;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 24px;
+	font-weight: normal;
+	margin-bottom: 24px;
+	color: #dddddd;
 }
 hr {
   visibility: hidden;
