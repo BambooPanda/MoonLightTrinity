@@ -8,50 +8,54 @@ SELASA, 2 JUNI 2015
 DAILY SCRUM MEETING
 ===================
 Riken :
-Kemarin Mengerjakan Apa ?   
+Apa yang dikerjakan semalam ?   
 - Home
+
 Apa yang dikerjakan Hari ini?   
 - Home
 
-Ada masalah dalam pengerjaan tugas?
-- Tidak mengerti apa saja yang ingin dikerjakan.
+Masalah dalam pengerjaan tugas?
+- Mencari bahan - bahannya karena keterbatasan Kuota.
 
 
 Dicksen : 
-Kemarin Mengerjakan Apa ?   
+Apa yang dikerjakan semalam ? 
 -
+
 Apa yang dikerjakan Hari ini?   
 - 
 
-Ada masalah dalam pengerjaan tugas?
+Masalah dalam pengerjaan tugas?
 - 
 
 
 
 Darim : 
-Kemarin Mengerjakan Apa ?   
+Apa yang dikerjakan semalam ?  
 -
+
 Apa yang dikerjakan Hari ini?   
 - 
 
-Ada masalah dalam pengerjaan tugas?
+Masalah dalam pengerjaan tugas?
 - 
 
 
 Stephen :
-Kemarin Mengerjakan Apa ?   
+Apa yang dikerjakan semalam ? 
 -
+
 Apa yang dikerjakan Hari ini?   
 - 
 
-Ada masalah dalam pengerjaan tugas?
+Masalah dalam pengerjaan tugas?
 - 
 
 ===============
 PROGRESS HARIAN 
 ===============
 
-1. PUSH : 
+1. PUSH : IN
 2. PUSH : 
 3. PUSH : 
 4. PUSH : 
