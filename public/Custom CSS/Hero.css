@@ -13,4 +13,19 @@ p{
 	width:70%;
 	float:right;	
 }
+.character {
+    position: relative !important;
+    margin-left: 0px !important;
+    margin-top: 0px !important;
+    top: -35px !important;
+}
+.icon {
+    margin-right: 10px;
+}
+.skill {
+    padding: 0px;
+    margin: 0px;
+    line-height: 1.5;
+    border: 0px none;
+}
 	
