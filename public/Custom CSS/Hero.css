@@ -28,4 +28,13 @@ p{
     line-height: 1.5;
     border: 0px none;
 }
+
+.kanan img
+{
+}
+.kanan p
+{
+	width: 80%;
+	display:inline;
+}
 	
