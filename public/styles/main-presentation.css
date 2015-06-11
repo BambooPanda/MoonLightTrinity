@@ -99,7 +99,7 @@ article#presentation.bespoke-parent {
   margin-top: -300px;
   /*left: 50%;
   margin-left: -50%;*/
-  background: url(../images/Slide.png) -150px 0 no-repeat black; /*Background di Slide*/
+  background: black; /*Background di Slide*/
   padding: 40px;
   -webkit-border-radius: 0;
   border-radius: 0;
