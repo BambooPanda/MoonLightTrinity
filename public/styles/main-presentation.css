@@ -103,6 +103,8 @@ article#presentation.bespoke-parent {
   padding: 40px;
   -webkit-border-radius: 0;
   border-radius: 0;
+  overflow-y: scroll;
+  overflow-x: hidden;
 }
 @media print {
   .bespoke-slide {

@@ -16,16 +16,20 @@ p{
     position: relative !important;
     margin-left: 0px !important;
     margin-top: 0px !important;
-    top: -35px !important;
+    top: 5px !important;
 }
 .icon {
     margin-right: 10px;
+	margin-top: 40px;
 }
 .skill {
     padding: 0px;
     margin: 0px;
     line-height: 1.5;
     border: 0px none;
+}
+h2 {
+	text-align: center;
 }
 /* CSS Document */
 
