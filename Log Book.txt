@@ -154,7 +154,6 @@ Apa yang dikerjakan Hari ini?
 Masalah dalam pengerjaan tugas?
 - Salah meletakkan file
 
-
 **************************************************************************************************************
 SPRINT 2
 **************************************************************************************************************
@@ -238,6 +237,7 @@ Masalah dalam pengerjaan tugas?
 - Tidak Ada.
 
 
+
 Darim : 
 Apa yang dikerjakan semalam ?  
 - Hero STR Sentinel Part. 2
@@ -288,6 +288,7 @@ Masalah dalam pengerjaan tugas?
 - Tidak Ada.
 
 
+
 Darim : 
 Apa yang dikerjakan semalam ?  
 - Hero STR Sentinel Part. 2
@@ -309,3 +310,55 @@ Apa yang dikerjakan Hari ini?
 Masalah dalam pengerjaan tugas?
 - Tidak ada
 
+**************************************************************************************************************
+SPRINT 3
+**************************************************************************************************************
+
+===================
+MINGGU, 7 JUNI 2015
+===================
+
+===================
+DAILY SCRUM MEETING
+===================
+Riken :
+Apa yang dikerjakan semalam ?   
+- ITEM
+
+Apa yang dikerjakan Hari ini?   
+- Link
+
+Masalah dalam pengerjaan tugas?
+- Tidak Ada
+
+Dicksen : 
+Apa yang dikerjakan semalam ? 
+- Hero AGI Sentinel Part. 2
+
+Apa yang dikerjakan Hari ini?   
+- Hero AGI Scourge  Part. 1
+
+Masalah dalam pengerjaan tugas?
+- Keterbatasan Kuota dalam mencari bahan.
+
+
+Darim : 
+Apa yang dikerjakan semalam ?  
+- Hero STR Sentinel Part. 2
+
+Apa yang dikerjakan Hari ini?   
+- Hero STR Scourge Part. 1
+
+Masalah dalam pengerjaan tugas?
+- Tidak Ada
+
+
+Stephen :
+Apa yang dikerjakan semalam ? 
+- Hero INT Sentinel Part. 2
+
+Apa yang dikerjakan Hari ini?   
+- Hero INT Scourge Part. 1
+
+Masalah dalam pengerjaan tugas?
+- Tidak ada
