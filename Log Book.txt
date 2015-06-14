@@ -154,3 +154,108 @@ Apa yang dikerjakan Hari ini?
 Masalah dalam pengerjaan tugas?
 - Salah meletakkan file
 
+
+**************************************************************************************************************
+SPRINT 2
+**************************************************************************************************************
+
+===================
+KAMIS, 4 JUNI 2015
+===================
+
+===================
+DAILY SCRUM MEETING
+===================
+Riken :
+Apa yang dikerjakan semalam ?   
+- Home
+
+Apa yang dikerjakan Hari ini?   
+- Memperbaiki Repository di GitHub & Membuat Background serta ITEM.
+
+Masalah dalam pengerjaan tugas?
+- Terjadi kesalahan push dari anggota, sehingga harus diperbaiki.
+
+
+Dicksen : 
+Apa yang dikerjakan semalam ? 
+- Hero AGI Sentinel Part. 1
+
+Apa yang dikerjakan Hari ini?   
+- Hero AGI Sentinel Part. 2
+
+Masalah dalam pengerjaan tugas?
+- Keterbatasan Kuota dalam mencari bahan.
+
+
+Darim : 
+Apa yang dikerjakan semalam ?  
+- Hero STR Sentinel Part. 1
+
+Apa yang dikerjakan Hari ini?   
+- Hero STR Sentinel Part. 2
+
+Masalah dalam pengerjaan tugas?
+- Tampilan
+
+
+Stephen :
+Apa yang dikerjakan semalam ? 
+- Hero INT Sentinel Part. 1
+
+Apa yang dikerjakan Hari ini?   
+- Hero INT Sentinel Part. 2
+
+Masalah dalam pengerjaan tugas?
+- Tidak ada
+
+===================
+JUMAT, 5 JUNI 2015
+===================
+
+===================
+DAILY SCRUM MEETING
+===================
+Riken :
+Apa yang dikerjakan semalam ?   
+- Memperbaiki Repository di GitHub & Membuat Background serta ITEM.
+
+Apa yang dikerjakan Hari ini?   
+- ITEM.
+
+Masalah dalam pengerjaan tugas?
+- Tidak Ada
+
+
+Dicksen : 
+Apa yang dikerjakan semalam ? 
+- Hero AGI Sentinel Part. 2
+
+Apa yang dikerjakan Hari ini?   
+- Hero AGI Sentinel Part. 2
+
+Masalah dalam pengerjaan tugas?
+- Tidak Ada.
+
+
+
+Darim : 
+Apa yang dikerjakan semalam ?  
+- Hero STR Sentinel Part. 2
+
+Apa yang dikerjakan Hari ini?   
+- Hero STR Sentinel Part. 2
+
+Masalah dalam pengerjaan tugas?
+- Tampilan
+
+
+Stephen :
+Apa yang dikerjakan semalam ? 
+- Hero INT Sentinel Part. 2
+
+Apa yang dikerjakan Hari ini?   
+- Hero INT Sentinel Part. 2
+
+Masalah dalam pengerjaan tugas?
+- Tidak ada
