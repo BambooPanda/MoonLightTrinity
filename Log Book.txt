@@ -1,7 +1,9 @@
+**************************************************************************************************************
 SPRINT 1
----------------------------------------------------------------------
+**************************************************************************************************************
+
 ===================
-SELASA, 2 JUNI 2015
+SENIN, 1 JUNI 2015
 ===================
 
 ===================
@@ -9,55 +11,44 @@ DAILY SCRUM MEETING
 ===================
 Riken :
 Apa yang dikerjakan semalam ?   
-- Home
+- Tidak Ada
 
 Apa yang dikerjakan Hari ini?   
-- Home
+- Tidak Ada
 
 Masalah dalam pengerjaan tugas?
-- Mencari bahan - bahannya karena keterbatasan Kuota.
+- Belum mengerti apa yang mau dikerjakan
 
 
 Dicksen : 
 Apa yang dikerjakan semalam ? 
--
+- Tidak Ada
 
 Apa yang dikerjakan Hari ini?   
-- 
+- Tidak Ada
 
 Masalah dalam pengerjaan tugas?
-- 
+- Belum mengerti apa yang mau di kerjakan
 
 
 
 Darim : 
 Apa yang dikerjakan semalam ?  
--
+- Tidak Ada
 
 Apa yang dikerjakan Hari ini?   
-- 
+- Tidak Ada
 
 Masalah dalam pengerjaan tugas?
-- 
+- Belum mengerti apa yang mau di kerjakan
 
 
 Stephen :
 Apa yang dikerjakan semalam ? 
--
+- Tidak Ada
 
 Apa yang dikerjakan Hari ini?   
-- 
+- Tidak Ada
 
 Masalah dalam pengerjaan tugas?
-- 
-
-===============
-PROGRESS HARIAN 
-===============
-
-1. PUSH : IN
-2. PUSH : 
-3. PUSH : 
-4. PUSH : 
-5. PUSH : 
-6. PUSH : 
+- Belum mengerti apa yang mau di kerjakan
