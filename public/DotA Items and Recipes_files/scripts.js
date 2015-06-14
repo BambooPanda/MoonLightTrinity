@@ -418,7 +418,7 @@ function initnav(type)
 	NEWS.each(function(item)
 	{
 		if (item)
-		{
+				{
 			xml = item;
 			xmlString = loadXMLString(xml);
 			n = xmlString.getElementsByTagName('rang')[0].childNodes[0].nodeValue;
