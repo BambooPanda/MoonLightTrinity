@@ -208,3 +208,54 @@ Apa yang dikerjakan Hari ini?
 
 Masalah dalam pengerjaan tugas?
 - Tidak ada
+
+===================
+JUMAT, 5 JUNI 2015
+===================
+
+===================
+DAILY SCRUM MEETING
+===================
+Riken :
+Apa yang dikerjakan semalam ?   
+- Memperbaiki Repository di GitHub & Membuat Background serta ITEM.
+
+Apa yang dikerjakan Hari ini?   
+- ITEM.
+
+Masalah dalam pengerjaan tugas?
+- Tidak Ada
+
+
+Dicksen : 
+Apa yang dikerjakan semalam ? 
+- Hero AGI Sentinel Part. 2
+
+Apa yang dikerjakan Hari ini?   
+- Hero AGI Sentinel Part. 2
+
+Masalah dalam pengerjaan tugas?
+- Tidak Ada.
+
+
+
+Darim : 
+Apa yang dikerjakan semalam ?  
+- Hero STR Sentinel Part. 2
+
+Apa yang dikerjakan Hari ini?   
+- Hero STR Sentinel Part. 2
+
+Masalah dalam pengerjaan tugas?
+- Tampilan
+
+
+Stephen :
+Apa yang dikerjakan semalam ? 
+- Hero INT Sentinel Part. 2
+
+Apa yang dikerjakan Hari ini?   
+- Hero INT Sentinel Part. 2
+
+Masalah dalam pengerjaan tugas?
+- Tidak ada
